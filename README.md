@@ -14,7 +14,7 @@ A minimal yet potent **Password Strength Analyzer** in Python.
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/passguard.git
+git clone https://github.com/vanshdhwn/Passguard
 cd passguard
 pip install -r requirements.txt
 ```
